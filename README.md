@@ -1,2 +1,2 @@
 # Error-Estimates-in-PINN
-The five examples used in Section 4, Numerical Experiments are available here.
+In our research, we have proven rigorously that the error function is dominated by the loss function. To validate our mathematical proofs we have conducted five numerical experiments and visually expressed that the error function is bounded by the loss function, and moreover that there is a significant correlation betweent the two functions in the PINN process. The five examples used in Section 4, Numerical Experiments, are available here. 
